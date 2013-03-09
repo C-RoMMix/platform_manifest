@@ -159,8 +159,8 @@
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
   <project path="external/lsof" name="external_lsof" remote="baked" revision="jb-4.2" />
   <project path="external/lzo" name="external_lzo" remote="baked" revision="jb-4.2" />
-  <project path="external/koush/Superuser" name="external_koush_Superuser" remote="aokp" revision="master" />
-  <project path="external/koush/Widgets" name="external_koush_Widgets" remote="aokp" revision="master" />
+  <project path="external/koush/Superuser" name="AOKP/external_koush_Superuser" remote="aokp" revision="master" />
+  <project path="external/koush/Widgets" name="AOKP/external_koush_Widgets" remote="aokp" revision="master" />
   <project path="external/markdown" name="platform/external/markdown" />
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
   <project path="external/mesa3d" name="platform/external/mesa3d" />
